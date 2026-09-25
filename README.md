@@ -2,6 +2,9 @@
 
 **An interactive EEG simulation prototype built in C.**
 
+![Contributors](https://img.shields.io/github/contributors/tksavonen/deltahaze?style=flat-square)
+![Commit activity](https://img.shields.io/github/commit-activity/m/tksavonen/deltahaze?style=flat-square)
+
 deltahaze generates simulated electrode-position signals at 256 samples per second. A separate command line mode exports samples to CSV and a .py script plots the recording. 
 A `BLINK` button has been added to demonstrate real-time changes to the EEG-- especially in the Fp1, Fp2 and Cz signals.
 
