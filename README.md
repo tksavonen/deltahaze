@@ -4,6 +4,10 @@
 
 ![Contributors](https://img.shields.io/github/contributors/tksavonen/deltahaze?style=flat-square)
 ![Commit activity](https://img.shields.io/github/commit-activity/m/tksavonen/deltahaze?style=flat-square)
+![Status](https://img.shields.io/badge/status-early%20prototype-ff6b8a?style=flat-square)
+![Language](https://img.shields.io/badge/core-C-5ee0c0?style=flat-square)
+![Sample rate](https://img.shields.io/badge/sample%20rate-256%20Hz-59bfff?style=flat-square)
+![Platform](https://img.shields.io/badge/platform-macOS-a59bff?style=flat-square)
 
 deltahaze generates simulated electrode-position signals at 256 samples per second. A separate command line mode exports samples to CSV and a .py script plots the recording. 
 A `BLINK` button has been added to demonstrate real-time changes to the EEG-- especially in the Fp1, Fp2 and Cz signals.
